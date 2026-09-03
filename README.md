@@ -82,3 +82,15 @@ I aim to solve at least **1 LeetCode problem every day** and continuously improv
 GitHub: **SuvarnaUllamparthi**
 
 Happy Coding! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0087-scramble-string](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0087-scramble-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0087-scramble-string](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0087-scramble-string) |
+<!---LeetCode Topics End-->
