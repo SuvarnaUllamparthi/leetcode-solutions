@@ -96,6 +96,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0136-single-number) |
 | [3903-smallest-stable-index-i](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
@@ -103,4 +104,8 @@ Happy Coding! 🚀
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
