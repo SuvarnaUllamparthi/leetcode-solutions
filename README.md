@@ -110,4 +110,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [3871-count-commas-in-range-ii](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 <!---LeetCode Topics End-->
