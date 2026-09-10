@@ -98,6 +98,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0136-single-number) |
 | [3903-smallest-stable-index-i](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -126,4 +127,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
