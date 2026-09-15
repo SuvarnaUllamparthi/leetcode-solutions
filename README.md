@@ -90,11 +90,13 @@ Happy Coding! 🚀
 | ------- |
 | [0087-scramble-string](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0115-distinct-subsequences) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0115-distinct-subsequences) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Array
 |  |
 | ------- |
@@ -143,6 +145,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0075-sort-colors) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -159,4 +162,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Greedy
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
