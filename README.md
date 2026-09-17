@@ -120,6 +120,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0836-rectangle-overlap](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3871-count-commas-in-range-ii](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
