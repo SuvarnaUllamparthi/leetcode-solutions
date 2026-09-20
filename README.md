@@ -91,6 +91,7 @@ Happy Coding! 🚀
 | [0087-scramble-string](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -183,6 +184,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0258-add-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
