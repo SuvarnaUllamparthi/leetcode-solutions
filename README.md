@@ -99,6 +99,7 @@ Happy Coding! 🚀
 | [0115-distinct-subsequences](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3524-find-x-value-of-array-i](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Array
 |  |
 | ------- |
@@ -107,6 +108,7 @@ Happy Coding! 🚀
 | [0075-sort-colors](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0136-single-number) |
 | [0835-image-overlap](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0835-image-overlap) |
+| [3524-find-x-value-of-array-i](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
@@ -128,6 +130,7 @@ Happy Coding! 🚀
 | [0836-rectangle-overlap](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3524-find-x-value-of-array-i](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3871-count-commas-in-range-ii](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Tree
 |  |
