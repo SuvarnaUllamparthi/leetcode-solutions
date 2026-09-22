@@ -127,6 +127,7 @@ Happy Coding! 🚀
 | ------- |
 | [0009-palindrome-number](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0507-perfect-number) |
@@ -151,6 +152,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0202-happy-number](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0202-happy-number) |
 ## Matrix
 |  |
 | ------- |
@@ -160,6 +162,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0202-happy-number](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0202-happy-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
@@ -196,4 +199,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0258-add-digits) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
