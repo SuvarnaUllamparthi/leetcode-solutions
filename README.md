@@ -137,6 +137,7 @@ Happy Coding! 🚀
 | [0263-ugly-number](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0507-perfect-number](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0507-perfect-number) |
+| [0728-self-dividing-numbers](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
