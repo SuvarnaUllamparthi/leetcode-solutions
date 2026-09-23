@@ -111,6 +111,7 @@ Happy Coding! 🚀
 | [0075-sort-colors](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0136-single-number) |
 | [0835-image-overlap](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0835-image-overlap) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3524-find-x-value-of-array-i](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -144,6 +145,7 @@ Happy Coding! 🚀
 | [0728-self-dividing-numbers](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
