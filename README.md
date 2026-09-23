@@ -92,6 +92,7 @@ Happy Coding! 🚀
 | [0115-distinct-subsequences](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -138,6 +139,7 @@ Happy Coding! 🚀
 | [0258-add-digits](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0836-rectangle-overlap) |
@@ -207,6 +209,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1389-create-target-array-in-the-given-order](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [3498-reverse-degree-of-a-string](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
