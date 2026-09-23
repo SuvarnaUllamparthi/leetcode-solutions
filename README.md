@@ -110,6 +110,7 @@ Happy Coding! 🚀
 | [0136-single-number](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0136-single-number) |
 | [0835-image-overlap](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1389-create-target-array-in-the-given-order](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3524-find-x-value-of-array-i](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -118,6 +119,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Bit Manipulation
@@ -158,6 +160,7 @@ Happy Coding! 🚀
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0202-happy-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -212,4 +215,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
+## Binary Search
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Sliding Window
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
