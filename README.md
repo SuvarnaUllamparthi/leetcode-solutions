@@ -116,6 +116,7 @@ Happy Coding! 🚀
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3524-find-x-value-of-array-i](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3903-smallest-stable-index-i](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
@@ -152,6 +153,7 @@ Happy Coding! 🚀
 | [2235-add-two-integers](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [3524-find-x-value-of-array-i](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3871-count-commas-in-range-ii](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Tree
 |  |
