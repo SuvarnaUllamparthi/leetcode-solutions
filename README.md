@@ -151,6 +151,7 @@ Happy Coding! 🚀
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2235-add-two-integers](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [3524-find-x-value-of-array-i](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
