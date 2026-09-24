@@ -115,6 +115,7 @@ Happy Coding! 🚀
 | [1389-create-target-array-in-the-given-order](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1480-running-sum-of-1d-array](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1672-richest-customer-wealth](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [3524-find-x-value-of-array-i](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -184,6 +185,7 @@ Happy Coding! 🚀
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0835-image-overlap](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0835-image-overlap) |
+| [1672-richest-customer-wealth](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
 | ------- |
