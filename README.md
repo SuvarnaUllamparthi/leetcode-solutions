@@ -93,6 +93,7 @@ Happy Coding! 🚀
 | [0387-first-unique-character-in-a-string](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [1096-brace-expansion-ii](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -179,6 +180,7 @@ Happy Coding! 🚀
 | [0073-set-matrix-zeroes](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1096-brace-expansion-ii](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Matrix
 |  |
@@ -196,6 +198,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0075-sort-colors) |
+| [1096-brace-expansion-ii](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Quicksort
 |  |
 | ------- |
@@ -252,4 +255,16 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
