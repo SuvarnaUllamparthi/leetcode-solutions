@@ -94,6 +94,7 @@ Happy Coding! 🚀
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1096-brace-expansion-ii](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -117,6 +118,7 @@ Happy Coding! 🚀
 | [1480-running-sum-of-1d-array](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3524-find-x-value-of-array-i](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -182,6 +184,7 @@ Happy Coding! 🚀
 | [0387-first-unique-character-in-a-string](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1096-brace-expansion-ii](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Matrix
 |  |
 | ------- |
