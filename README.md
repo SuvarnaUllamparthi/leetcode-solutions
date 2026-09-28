@@ -159,6 +159,7 @@ Happy Coding! 🚀
 | [1486-xor-operation-in-an-array](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1952-three-divisors](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [3524-find-x-value-of-array-i](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
@@ -234,6 +235,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1952-three-divisors) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -270,4 +272,16 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
