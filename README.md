@@ -115,6 +115,7 @@ Happy Coding! 🚀
 | [0835-image-overlap](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [1390-four-divisors](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1480-running-sum-of-1d-array](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -155,6 +156,7 @@ Happy Coding! 🚀
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1390-four-divisors](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -279,9 +281,11 @@ Happy Coding! 🚀
 ## Prime Factorization
 |  |
 | ------- |
+| [1390-four-divisors](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1952-three-divisors](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1952-three-divisors) |
 ## Sieve Theory
 |  |
 | ------- |
+| [1390-four-divisors](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1952-three-divisors](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
