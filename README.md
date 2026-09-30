@@ -117,6 +117,7 @@ Happy Coding! 🚀
 | [1389-create-target-array-in-the-given-order](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1480-running-sum-of-1d-array](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
@@ -195,6 +196,7 @@ Happy Coding! 🚀
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0835-image-overlap](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0835-image-overlap) |
+| [1572-matrix-diagonal-sum](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
