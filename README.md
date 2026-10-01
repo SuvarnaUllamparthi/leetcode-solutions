@@ -88,6 +88,7 @@ Happy Coding! 🚀
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0087-scramble-string](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -273,6 +274,7 @@ Happy Coding! 🚀
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
@@ -292,4 +294,8 @@ Happy Coding! 🚀
 | ------- |
 | [1390-four-divisors](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1952-three-divisors](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1952-three-divisors) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
