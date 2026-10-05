@@ -97,6 +97,7 @@ Happy Coding! 🚀
 | [0412-fizz-buzz](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
+| [1773-count-items-matching-a-rule](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -126,6 +127,7 @@ Happy Coding! 🚀
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [1773-count-items-matching-a-rule](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [3524-find-x-value-of-array-i](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
