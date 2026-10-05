@@ -127,6 +127,7 @@ Happy Coding! 🚀
 | [1672-richest-customer-wealth](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1929-concatenation-of-array](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [3524-find-x-value-of-array-i](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -242,6 +243,7 @@ Happy Coding! 🚀
 | [0258-add-digits](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1389-create-target-array-in-the-given-order](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [1929-concatenation-of-array](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
