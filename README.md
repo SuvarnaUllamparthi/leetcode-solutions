@@ -92,6 +92,7 @@ Happy Coding! 🚀
 | [0022-generate-parentheses](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0087-scramble-string](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -282,6 +283,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -293,6 +295,7 @@ Happy Coding! 🚀
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Enumeration
 |  |
