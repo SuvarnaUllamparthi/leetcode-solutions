@@ -134,6 +134,7 @@ Happy Coding! 🚀
 | [1773-count-items-matching-a-rule](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3524-find-x-value-of-array-i](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -221,6 +222,7 @@ Happy Coding! 🚀
 | ------- |
 | [0075-sort-colors](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0075-sort-colors) |
 | [1096-brace-expansion-ii](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quicksort
 |  |
 | ------- |
@@ -240,6 +242,7 @@ Happy Coding! 🚀
 | [0678-valid-parenthesis-string](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
 |  |
@@ -270,6 +273,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -325,4 +329,8 @@ Happy Coding! 🚀
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
