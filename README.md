@@ -123,6 +123,7 @@ Happy Coding! 🚀
 | [0073-set-matrix-zeroes](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0169-majority-element) |
 | [0835-image-overlap](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
@@ -204,6 +205,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1096-brace-expansion-ii](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
@@ -228,6 +230,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0169-majority-element) |
 | [1096-brace-expansion-ii](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quicksort
@@ -293,6 +296,7 @@ Happy Coding! 🚀
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Backtracking
 |  |
@@ -341,4 +345,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SuvarnaUllamparthi/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
